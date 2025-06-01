@@ -10,7 +10,7 @@
 | Relaciones | _Registrar prestamo, devolver libro_  |
 | Referencias | _Buscar libro,pedir prestado un libro, devolver libro_ |
 |  Notas |  __ |
-| Autor  | _Alejandro Salazar Gonzalez_ |
+| Autor  | _Diego Febles Seoane_ |
 |Fecha | _6/11/2024_ |
 
 |  Atributo |||
@@ -27,7 +27,7 @@
 | Relaciones | _Registrar prestamo, devolver libro_  |
 | Referencias | _Buscar libro,pedir prestado un libro, devolver libro, Gestionar inventario de libros, registrar prestamos_ |
 |  Notas |  __ |
-| Autor  | _Alejandro Salazar Gonzalez_ |
+| Autor  | _Diego Febles Seoane_ |
 |Fecha | _6/11/2024_ |
 
 |  Atributo |||
@@ -47,7 +47,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   |  Caso de Uso	CU | Pedir Prestamo |
@@ -60,7 +60,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -75,7 +75,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -90,7 +90,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -105,7 +105,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -120,7 +120,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ## Ejercicio 2: Sistema de Compras en Línea
@@ -133,7 +133,7 @@
 | Relaciones | __  |
 | Referencias | _Buscar productos, añadir productos al carrito, realizar pedido, realizar pago_ |
 |  Notas |  __ |
-| Autor  | _Alejandro Salazar Gonzalez_ |
+| Autor  | _Diego Febles Seoane_ |
 |Fecha | _6/11/2024_ |
 
 |  Atributo |||
@@ -150,7 +150,7 @@
 | Relaciones | __  |
 | Referencias | _Buscar productos, añadir productos al carrito, realizar pedido, realizar pago, gestionar catálogo de productos_ |
 |  Notas |  __ |
-| Autor  | _Alejandro Salazar Gonzalez_ |
+| Autor  | _Diego Febles Seoane_ |
 |Fecha | _6/11/2024_ |
 
 |  Atributo |||
@@ -170,7 +170,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -185,7 +185,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -199,7 +199,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -214,7 +214,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ---
@@ -229,7 +229,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   ## Ejercicio 3: Sistema de gestion de cursos en linea
@@ -243,7 +243,7 @@
 | Relaciones | __  |
 | Referencias | _Inscribirse en curso, ver material del curso, realizar evaluaciones_ |
 |  Notas |  __ |
-| Autor  | _Alejandro Salazar Gonzalez_ |
+| Autor  | _Diego Febles Seoane_ |
 |Fecha | _6/11/2024_ |
 
 |  Atributo |||
@@ -260,7 +260,7 @@
 | Relaciones | _Realiza las mismas acciones del alumno más las especificas_  |
 | Referencias | _Inscribirse en curso, ver material del curso, realizar evaluaciones, crear curso, calificar evaluacion, actualizar contenido del curso_ |
 |  Notas |  __ |
-| Autor  | _Alejandro Salazar Gonzalez_ |
+| Autor  | _Diego Febles Seoane_ |
 |Fecha | _6/11/2024_ |
 
 |  Atributo |||
@@ -280,7 +280,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   |  Caso de Uso	CU | Ver material del curso  |
@@ -293,7 +293,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   |  Caso de Uso	CU | Realizar evaluaciones  |
@@ -306,7 +306,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   |  Caso de Uso	CU | Crear curso  |
@@ -319,7 +319,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   |  Caso de Uso	CU | Calificar evaluaciones  |
@@ -332,7 +332,7 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
 
   |  Caso de Uso	CU | Actualizar contenido del curso  |
@@ -345,5 +345,5 @@
   | Post-condiciones  | __  |
   |  Requerimientos | __  |
   |  Notas |  __ |
-  | Autor  | _Alejandro Salazar González_ |
+  | Autor  | _Diego Febles Seoane_ |
   |Fecha | _6/11/2024_ |
